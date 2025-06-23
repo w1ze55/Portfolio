@@ -9,8 +9,6 @@
 
 ## 🧠 **Estrutura de Conteúdo**
 
----
-
 ### 1. **Home / Sobre Mim**
 
 * Foto profissional ou avatar.
@@ -42,14 +40,14 @@
 ### 4. **Experiência e Educação**
 
 * Timeline simples ou cards.
-* Onde trabalhou, o que fez, por quanto tempo.
+* Onde trabalhei, o que fiz, por quanto tempo.
 * Cursos relevantes (ex: bootcamps, formações, etc.)
 
 ### 5. **Contato**
 
 * Formulário (nome, email, mensagem)
 * Links sociais: LinkedIn, GitHub, Email, WhatsApp
-* Pode usar serviços como **EmailJS** ou **Formspree**
+* pPossibilidade de usar serviços como **EmailJS** ou **Formspree**
 
 ---
 
@@ -66,8 +64,8 @@
 
 ## 🎨 Dicas de Design
 
-* Use um layout responsivo (mobile-first)
-* Use um design system (Tailwind CSS, Vuetify, Chakra UI, etc.)
+* Usar um layout responsivo (mobile-first)
+* Usar um design system (Tailwind CSS, Vuetify, Chakra UI, etc.)
 * Cores neutras com destaques
 * Tipografia legível
 * Ícones (ex: Font Awesome, HeroIcons, Feather)
