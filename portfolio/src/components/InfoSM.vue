@@ -6,7 +6,7 @@ export default {
             name: 'Caue Peres',
             description: 'Welcome to my portfolio!',
             title: 'Developer FullStack Jr',
-            aboutMe: 'Olá! 👋 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Trabalho duro para criar soluções inovadoras e estou constantemente aprendendo e me aperfeiçoando em novas tecnologias. Este portfólio está em desenvolvimento e em breve você poderá conhecer mais sobre meus projetos e habilidades. Obrigado pela paciência! 🙌'
+            aboutMe: 'colocar meu texto de apresentação'
         }
     } 
 }
