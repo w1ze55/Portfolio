@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #000;
+    --secondary-color: #fff;
+    --bg-color: #090729;
+    --text-color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Schibsted Grotesk', sans-serif;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
+}
