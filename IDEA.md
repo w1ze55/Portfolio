@@ -1,9 +1,8 @@
 # Ideia do projeto
 
-## 🔧 **Stack: Vue.js vs React**
+## 🔧 **Stack: Vue.js**
 
-* **Vue.js**: ótimo para simplicidade e organização.
-* **React**: ideal para escalabilidade e uso com Next.js (SSR e SEO).
+* ótimo para simplicidade e organização.
 
 ---
 

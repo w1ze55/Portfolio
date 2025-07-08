@@ -8,8 +8,8 @@ export default {
     <nav class="navbar">
         <div class="nav-container">
             <ul class="nav-menu">
-                <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Experiences</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">Projects</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
             </ul>
